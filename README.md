@@ -3,7 +3,7 @@ Nutrition and Energy Tracking Database
 
 About the Project:
 NutriMind is a database project that helps users track their food intake, water consumption, and physical activities.
-The main goal of this project is to design and implement a structured relational database using SQL.
+The main goal of this project is to design and implement a structured relational database using SQL, Python, Html, CSS.
 This project was developed as part of a database systems course.
 
 Features:
