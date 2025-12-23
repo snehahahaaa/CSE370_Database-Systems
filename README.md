@@ -6,7 +6,11 @@ Features: Track daily food and calorie intake,Track daily water intake (HydraTra
 
 Database Design: The database follows basic relational database principles. Main tables include: Users Food Nutrition Records Hydration Records Exercise Records Allergens Music BMI Admin The design uses primary keys, foreign keys, normalization, and SQL constraints to ensure data integrity.
 
-Tools and Technologies: Database: MySQL / PostgreSQL, Query Language: SQL Design Tool: ER Diagram Project Structure, Frontend: HTML, CSS, Javascript, Backend: Python
+Tools and Technologies: Database: MySQL / PostgreSQL
+
+Query Language: SQL 
+
+Design Tool: ER Diagram Project Structure, Frontend: HTML, CSS, Javascript, Backend: Python
 
 How to Run the Project: Clone or download the repository. Open your database management system. Run the SQL files to create tables and insert data. Execute sample queries to test the database. Sample Queries, Daily and weekly calorie calculation, BMI Calculation ,Add Music, Daily water intake summary ,Exercise activity summary, Foods containing allergens
 
